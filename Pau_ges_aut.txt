@@ -1,0 +1,31 @@
+# Requisitos Funcionales - MVP para Aplicación de Gestión de Cuidado de Niño Autista
+
+## 1. Panel Principal (Dashboard)
+   a. Resumen visual del estado actual del niño (estado de ánimo, nivel de ansiedad)
+   b. Accesos rápidos a las secciones principales (rutinas, medicación, actividades)
+   c. Alertas y recordatorios pendientes del día
+   d. Registro rápido de incidentes o eventos importantes
+
+## 2. Gestión de Rutinas Diarias
+   a. Lista de rutinas programadas con horarios (desayuno, terapia, descanso, etc.)
+   b. Checklist interactivo para marcar rutinas completadas
+   c. Indicadores visuales de progreso diario
+   d. Botón para agregar o editar rutinas personalizadas
+
+## 3. Registro de Medicación
+   a. Lista de medicamentos con dosis y horarios programados
+   b. Recordatorios automáticos para administración de medicamentos
+   c. Botón para confirmar medicación administrada
+   d. Historial de medicación de los últimos días
+
+## 4. Seguimiento de Comportamiento y Emociones
+   a. Selector visual de emociones/estados de ánimo (iconos o escala)
+   b. Registro de comportamientos específicos (crisis, logros, interacciones)
+   c. Campo de notas para contexto adicional
+   d. Visualización de patrones en gráfico simple (últimos 7 días)
+
+## 5. Registro de Actividades y Terapias
+   a. Lista de actividades terapéuticas realizadas
+   b. Formulario para registrar nueva actividad con duración y observaciones
+   c. Categorización de actividades (sensorial, social, educativa, etc.)
+   d. Indicador de respuesta del niño a cada actividad
