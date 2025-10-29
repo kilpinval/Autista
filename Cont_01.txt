@@ -1,0 +1,66 @@
+# App de Apoyo para Niños con TEA
+
+## 📋 Descripción del Proyecto
+
+`[Nombre de la App]` es una aplicación móvil diseñada para proporcionar apoyo personalizable a niños con Trastorno del Espectro Autista (TEA), adaptándose a sus necesidades sensoriales, comunicativas y de aprendizaje. La aplicación sirve como una herramienta que complementa las estrategias terapéuticas y educativas, priorizando la seguridad, la flexibilidad y la experiencia positiva del usuario.
+
+El objetivo principal es ofrecer un entorno digital predecible y moldeable que potencie la autonomía del niño, facilite la comunicación y ayude en la gestión de las rutinas diarias, reduciendo la ansiedad y los comportamientos desafiantes [citation:2][citation:3].
+
+## 🧩 Características Principales (Módulos)
+
+La aplicación está compuesta por varios módulos independientes que pueden activarse o desactivarse según los requisitos específicos de cada niño.
+
+| Módulo | Descripción | Función de Apoyo |
+| :--- | :--- | :--- |
+| **Agenda Visual** | Muestra la secuencia de actividades del día utilizando pictogramas, fotos o texto. | **Anticipación**: Ayuda a comprender qué sucederá a continuación, reduciendo la ansiedad por cambios inesperados [citation:5][citation:6]. |
+| **Comunicador (CAA)** | Permite al niño expresar necesidades, emociones y pensamientos mediante símbolos que pueden convertirse en voz. | **Comunicación**: Actúa como un Sistema de Comunicación Aumentativa y Alternativa (CAA) para usuarios no verbales o con lenguaje limitado [citation:2][citation:3]. |
+| **Gestor de Tareas** | Divide rutinas complejas (ej. cepillarse los dientes) en pasos simples y secuenciados con apoyos visuales. | **Autonomía**: Fomenta la independencia en actividades de la vida diaria mediante la secuenciación [citation:9]. |
+| **Panel de Perfiles** | Permite crear y cambiar entre múltiples perfiles de usuario, cada uno con su propia configuración. | **Personalización**: Asegura que la app se adapte a diferentes niños o a la evolución de un mismo usuario. |
+| **Modo Focalización** | Permite a los cuidadores desactivar módulos no esenciales para minimizar la sobrecarga sensorial durante una crisis. | **Regulación**: Ayuda a reducir los estímulos en momentos de sobrecarga, facilitando la autorregulación [citation:2]. |
+
+## ⚙️ Guía de Personalización
+
+La aplicación está diseñada para ser moldeable. A continuación, se describen los aspectos que pueden adaptarse.
+
+### 1. Adaptación Sensorial y de Interfaz
+*   **Tema Visual**: Alternar entre modos de Alto Contraste, Escala de Grises o Colores Tenues.
+*   **Sonidos y Animaciones**: Control global para activar/desactivar efectos de sonido, vibración y transiciones animadas.
+*   **Navegación**: Opción de navegación por toque, barrido deslizante o conmutador externo.
+
+### 2. Personalización de Contenido
+*   **Biblioteca de Símbolos**: Capacidad de importar pictogramas del sistema ARASAAC [citation:6] o utilizar fotografías personales de la galería del dispositivo.
+*   **Refuerzos Positivos**: Personalizar la naturaleza y frecuencia de los refuerzos (ej. sonido de aplausos, animación breve) tras completar una actividad [citation:9].
+*   **Sintetizador de Voz**: Ajustar la velocidad y el tono de la voz del comunicador, o seleccionar una voz familiar (ej. de un cuidador).
+
+### 3. Configuración de Módulos
+*   **Habilitación Selectiva**: Los terapeutas o cuidadores pueden activar solo los módulos que el niño esté preparado para usar.
+*   **Complejidad Gradual**: Dentro de cada módulo, ajustar el nivel de dificultad (ej., número de pasos en una secuencia, cantidad de elementos en una pantalla).
+
+## 🛡️ Consideraciones Clínicas y de Seguridad
+
+La implementación de esta aplicación debe realizarse siempre bajo la guía de profesionales.
+
+*   **Uso Supervisado**: Esta app es una **herramienta de apoyo**, no un reemplazo de la interacción humana o la terapia profesional [citation:7].
+*   **Gestión del Tiempo de Pantalla**: Es crucial establecer límites de tiempo claros para prevenir un uso excesivo. Se recomienda seguir las directrices de expertos, que sugieren no más de una hora al día de programación de alta calidad para niños pequeños, y asegurar un equilibrio con otras actividades esenciales [citation:10].
+*   **Privacidad de Datos**: Toda la información personal y de uso se almacena de forma local en el dispositivo y no se comparte con terceros, garantizando la confidencialidad.
+*   **Prevención de Crisis**: La app incluye funciones para minimizar la frustración (ej., evitar mensajes de error crípticos, no usar time-outs agresivos). En caso de crisis autista, la prioridad es la seguridad del niño, no el uso del dispositivo [citation:2].
+
+## 🚀 Guía de Inicio Rápido
+
+1.  **Crear un Perfil**: Comience creando un perfil único para el niño.
+2.  **Configuración Sensorial**: Ajuste el tema y desactive los sonidos si el niño es sensible a los estímulos auditivos.
+3.  **Empezar con un Módulo**: Se recomienda comenzar solo con la **Agenda Visual** para introducir la aplicación de manera gradual.
+4.  **Personalizar**: Añada fotos de las actividades y personas reales del niño para aumentar la comprensión y la motivación.
+5.  **Evaluar y Ajustar**: En colaboración con el terapeuta, revise el progreso y ajuste la configuración de la app según sea necesario.
+
+## 🤝 Contribución al Proyecto
+
+Las contribuciones son bienvenidas. Por favor, lea las `GUÍA_de_CONTRIBUCIÓN.md` antes de enviar un *pull request*. Es fundamental mantener un tono respetuoso y un entendimiento de las necesidades de la comunidad TEA en todas las discusiones.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia `[Inserte Nombre de la Licencia]`. Consulte el archivo `LICENSE` para más detalles.
+
+---
+
+**Descargo de Responsabilidad**: Esta aplicación es una herramienta de apoyo tecnológico y no un dispositivo médico. Su uso debe estar integrado en un plan de apoyo más amplio, supervisado por profesionales de la salud y educación cualificados [citation:8].
